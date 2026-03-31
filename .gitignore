@@ -26,3 +26,6 @@ go.work
 *.swp
 *.swo
 *~
+claude*
+claude.json
+.claude/settings.local.json
