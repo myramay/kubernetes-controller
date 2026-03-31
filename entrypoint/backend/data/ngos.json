@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Catholic Charities USA",
+    "description": "Immigration legal services, housing assistance, and resettlement support nationwide",
+    "helps_with": ["legal", "housing", "employment"],
+    "phone": "1-800-919-9338",
+    "website": "https://www.catholiccharitiesusa.org",
+    "languages": ["English", "Spanish"],
+    "free": true,
+    "states": ["all"]
+  },
+  {
+    "name": "International Rescue Committee (IRC)",
+    "description": "Helps refugees and immigrants with resettlement, employment, legal aid, and healthcare",
+    "helps_with": ["legal", "housing", "employment", "healthcare"],
+    "phone": "1-212-551-3000",
+    "website": "https://www.rescue.org",
+    "languages": ["English", "Spanish", "Arabic", "French"],
+    "free": true,
+    "states": ["all"]
+  },
+  {
+    "name": "ACLU Immigrants Rights Project",
+    "description": "Legal defense and advocacy for immigrants facing deportation and rights violations",
+    "helps_with": ["legal"],
+    "phone": "1-212-549-2500",
+    "website": "https://www.aclu.org/immigrants-rights",
+    "languages": ["English", "Spanish"],
+    "free": true,
+    "states": ["all"]
+  },
+  {
+    "name": "UnidosUS",
+    "description": "Largest Latino civil rights org — education, housing, health, and employment resources",
+    "helps_with": ["legal", "housing", "employment", "healthcare"],
+    "phone": "1-202-785-1670",
+    "website": "https://www.unidosus.org",
+    "languages": ["English", "Spanish"],
+    "free": true,
+    "states": ["all"]
+  },
+  {
+    "name": "National Immigration Legal Services Center",
+    "description": "Directory of free and low-cost immigration legal services across the US",
+    "helps_with": ["legal"],
+    "phone": "",
+    "website": "https://www.immigrationadvocates.org/nonprofit/legaldirectory",
+    "languages": ["English", "Spanish"],
+    "free": true,
+    "states": ["all"]
+  },
+  {
+    "name": "Tennessee Immigrant & Refugee Rights Coalition (TIRRC)",
+    "description": "Statewide coalition defending the rights of immigrants and refugees in Tennessee",
+    "helps_with": ["legal", "employment"],
+    "phone": "615-833-0384",
+    "website": "https://www.tnimmigrant.org",
+    "languages": ["English", "Spanish"],
+    "free": true,
+    "states": ["TN"]
+  },
+  {
+    "name": "World Relief",
+    "description": "Refugee resettlement, immigration legal services, and community integration support",
+    "helps_with": ["legal", "housing", "employment"],
+    "phone": "1-630-665-0235",
+    "website": "https://worldrelief.org",
+    "languages": ["English", "Spanish", "Arabic", "Somali"],
+    "free": true,
+    "states": ["all"]
+  },
+  {
+    "name": "National Council of La Raza",
+    "description": "Advocates for Latino civil rights — legal, education, housing, and health services",
+    "helps_with": ["legal", "housing", "healthcare"],
+    "phone": "1-202-785-1670",
+    "website": "https://www.nclr.org",
+    "languages": ["English", "Spanish"],
+    "free": true,
+    "states": ["all"]
+  },
+  {
+    "name": "Office of Refugee Resettlement (ORR)",
+    "description": "Federal program providing refugees with cash, medical assistance, and resettlement services",
+    "helps_with": ["housing", "healthcare", "employment"],
+    "phone": "1-202-401-9246",
+    "website": "https://www.acf.hhs.gov/orr",
+    "languages": ["English", "Spanish"],
+    "free": true,
+    "states": ["all"]
+  },
+  {
+    "name": "Legal Aid Society",
+    "description": "Free civil legal services for low-income immigrants including housing and employment",
+    "helps_with": ["legal", "housing"],
+    "phone": "1-212-577-3300",
+    "website": "https://www.legalaidnyc.org",
+    "languages": ["English", "Spanish", "Chinese"],
+    "free": true,
+    "states": ["NY"]
+  },
+  {
+    "name": "RAICES",
+    "description": "Free and low-cost legal services for immigrant children, families, and refugees",
+    "helps_with": ["legal"],
+    "phone": "1-210-222-0964",
+    "website": "https://www.raicestexas.org",
+    "languages": ["English", "Spanish"],
+    "free": true,
+    "states": ["TX"]
+  },
+  {
+    "name": "ADD MORE HERE",
+    "description": "Person 4: research and add more real verified NGOs above this entry. Sources: immigrationadvocates.org, acf.hhs.gov/orr",
+    "helps_with": [],
+    "phone": "",
+    "website": "",
+    "languages": [],
+    "free": true,
+    "states": ["all"]
+  }
+]

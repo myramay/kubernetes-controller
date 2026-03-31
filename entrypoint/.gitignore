@@ -1,0 +1,15 @@
+# Dependencies — never commit
+node_modules/
+__pycache__/
+*.pyc
+
+# API keys — NEVER commit these
+.env
+backend/.env
+
+# Build output
+build/
+
+# System files
+.DS_Store
+*.log

@@ -1,0 +1,10 @@
+# FILE: backend/requirements.txt
+# LANGUAGE: plain text
+# Install all Python packages with:
+# pip install -r requirements.txt
+
+fastapi
+uvicorn
+anthropic
+httpx
+python-dotenv
