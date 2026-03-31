@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export PATH=$HOME/local/go/bin:$HOME/local:$HOME/go/bin:$PATH)",
+      "Bash(export GOPATH=$HOME/go)",
+      "Bash(export GOROOT=$HOME/local/go)",
+      "Bash(go build:*)"
+    ]
+  }
+}

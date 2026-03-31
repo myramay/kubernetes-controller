@@ -1,0 +1,27 @@
+# permissions for end users to view tenantnamespaces.
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  labels:
+    app.kubernetes.io/name: clusterrole
+    app.kubernetes.io/instance: tenantnamespace-viewer-role
+    app.kubernetes.io/component: rbac
+    app.kubernetes.io/created-by: kubernetes-controller
+    app.kubernetes.io/part-of: kubernetes-controller
+    app.kubernetes.io/managed-by: kustomize
+  name: tenantnamespace-viewer-role
+rules:
+- apiGroups:
+  - tenancy.example.com
+  resources:
+  - tenantnamespaces
+  verbs:
+  - get
+  - list
+  - watch
+- apiGroups:
+  - tenancy.example.com
+  resources:
+  - tenantnamespaces/status
+  verbs:
+  - get
